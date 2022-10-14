@@ -24,3 +24,5 @@ n = n >> 1;
 a ^= b;
 b ^= a;
 a ^= b;
+
+End of part 1.
